@@ -222,7 +222,7 @@ Adding grid values increases run time **multiplicatively**. For example, a third
 ---
 
 ## 👥 Team
-Proudly done by:
+Proudly done by: <br>
 **Group 5:** Royce · Naufal · Hui Shin · Yan Jun · Zhen Xiang
 
 Dataset: B. Becker and R. Kohavi, "Adult," *UCI Machine Learning Repository*, 1996, doi: [10.24432/C5XW20](https://archive.ics.uci.edu/dataset/2/adult).
