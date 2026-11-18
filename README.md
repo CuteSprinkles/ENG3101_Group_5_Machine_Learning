@@ -11,7 +11,7 @@ A Jupyter notebook that predicts whether a person earns **more than USD $50,000 
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-UCI_Adult-6E40C9)
 
-> [!WARNING]
+> [!CAUTION]
 > ⚠️ **The PDF export (`Group_5_Final_ML_Code.pdf`) may have formatting issues.** Long code lines are wrapped (marked with `␣`) and some formulas, tables or wide outputs may display incorrectly or be partly missing. Please use **`Group_5_Final_ML_Code.ipynb`** as the complete and correct version.
 
 ---
